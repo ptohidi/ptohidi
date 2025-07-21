@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pouria. I'm an ML Engineer at BetterHelp, and am currently based in Ithaca, NY.
+My name is Pouria. I'm an ML Engineer at BetterHelp, and am currently based in the Greater Boston area.
 
 <!--
 **ptohidi/ptohidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
